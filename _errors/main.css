@@ -16,4 +16,8 @@ html{
 .error-middle{
 	display: block;
 	vertical-align: middle;
+    background-color: rgba(0, 0, 0, 0.5);
+    margin: 50px;
+    padding: 20px;
+    border-radius: 5px;
 }
